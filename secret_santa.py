@@ -41,8 +41,8 @@ for l in random_indexes:
 
 smtp_server = "smtp.gmail.com"
 port = 587  # For starttls
-sender_email = "jozettelpb@gmail.com" ## your mail here, must be gmail account
-password = "geCh_wkZ{F>K5&s8@G'1"## your password here
+sender_email = ## your mail here, must be gmail account
+password = ## your password here
 
 # Create a secure SSL context
 context = ssl.create_default_context()
